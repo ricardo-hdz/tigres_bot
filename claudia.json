@@ -1,0 +1,11 @@
+{
+  "lambda": {
+    "role": "tigres_bot-executor",
+    "name": "tigres_bot",
+    "region": "us-east-1"
+  },
+  "api": {
+    "id": "12sj8pvyi7",
+    "module": "bot"
+  }
+}

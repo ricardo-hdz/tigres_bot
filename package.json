@@ -1,0 +1,14 @@
+{
+  "name": "tigres_bot",
+  "version": "1.0.0",
+  "description": "Telegram bot to return scores of all Tigres - Team  matches",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "claudia-bot-builder": "^1.4.0"
+  }
+}
